@@ -1,6 +1,4 @@
-# **bmp-dash-roadmap**
-
-# Project Overview – bmp-dash
+# Project Overview - **bmp-dash**
 
 ## 🧭 What is bmp-dash?
 
